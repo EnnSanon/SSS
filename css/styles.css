@@ -1,0 +1,142 @@
+body{
+    color: #40514E;
+    margin:0px;
+    text-align: center;
+    font-family: 'Vollkorn', serif;font-family: 'Times New Roman', Times, serif;
+   
+}
+h1{ 
+    font-size: 462.5%; 
+    line-height: 2;
+   margin: 50px auto 0 auto;
+   font-family: 'Dancing Script', cursive;
+   color: #66BFBF;
+}
+h2{
+    font-family: 'Satisfy', cursive;
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+h3{
+    font-family: 'Source Serif Pro', serif;
+    color: #11999E;
+
+}
+.top-container{
+    background-color: rgb(235, 245, 241);
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    margin: 100px 0;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    
+
+}
+    .top-cloud{
+        position:absolute;
+        right: 300px;
+        top: 40px;
+    }
+    .bottom-cloud{
+        position: absolute;
+        left: 250px;
+        bottom:300px;
+    }
+.enn{
+    height: 280px;
+    width: 250px;
+    border-radius: 30%;
+}
+p{
+    font-family: 'Vollkorn', serif; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2;
+}
+.computer{
+   width: 25%;
+   float: left;
+   margin-right: 30px;
+}
+.piano{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.programmer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+a{
+    color: #0a0365;
+    font-family: 'Vollkorn', serif; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+   
+}
+.clear1{
+    clear: left;
+}
+.clear2{
+    clear: right;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: #a1eaea;
+    border-width: 5px;
+    margin: 100px auto;
+}
+.p{
+    width: 30%;
+    margin: auto;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+	box-shadow:inset -4px 10px 26px -11px #9fb4f2;
+	background-color:#7892c2;
+	border-radius:8px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Vollkorn', serif; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	padding:14px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background-color:#11cdd4;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.76rem;
+    padding: 20px 0;
+}
+        
